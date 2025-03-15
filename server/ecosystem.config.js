@@ -1,4 +1,4 @@
-module.export = {
+module.exports = {
   app: [
     {
       name: "inventory-management",
